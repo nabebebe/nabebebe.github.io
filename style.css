@@ -1,0 +1,17 @@
+h1 {
+  font-size: 12px;
+  color: #666;
+}
+
+.container {
+
+}
+
+
+.tile {
+  width: 300px;
+  height: 100px;
+  color: #666;
+  background-color: #eee;
+  float: left;
+}
